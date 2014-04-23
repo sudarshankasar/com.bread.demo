@@ -3,6 +3,7 @@
     <wb-module deploy-name="com.bread.demo">
         <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/sr.com"/>
         <property name="context-root" value="com.bread.demo"/>
         <property name="java-output-path" value="/com.bread.demo/build/classes"/>
     </wb-module>
